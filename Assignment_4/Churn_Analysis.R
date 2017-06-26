@@ -1,6 +1,4 @@
-# P.N. Vamshi (13EC10044), Manognya Deepthi G (13IM10008), Nikhil Kashyap (13EE10033), Mukesh Sahani (13EC10039), Manoj Meena (13EE10028)
 # Data Analysis (ASSIGNMENT 4)
-# Group: DA-04
 # Customer Churn Data
 
 # Clearing the Environment
